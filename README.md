@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS, SAP Analytics Cloud**
 
-- 👨‍💻 You can also see all of my projects here: [https://mohammedtay4.github.io/mohammedtayfour.github.io/#](https://mohammedtay4.github.io/mohammedtayfour.github.io/#)
+- 👨‍💻 You can check out my portfolio here: [https://mohammedtay4.github.io/mohammedtayfour.github.io/#](https://mohammedtay4.github.io/mohammedtayfour.github.io/#)
 
 - 💬 Ask me about **Python, R programming language, SQL, Tableau**
 
