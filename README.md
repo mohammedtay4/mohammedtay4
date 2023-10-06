@@ -7,13 +7,11 @@
 
 - 🌱 I’m currently learning **AWS, SAP Analytics Cloud**
 
-- 👨‍💻 All of my projects are available at [https://mohammedtay4.github.io/mohammedtayfour.github.io/#](https://mohammedtay4.github.io/mohammedtayfour.github.io/#)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mohammed-tayfour-b6784b137/](https://www.linkedin.com/in/mohammed-tayfour-b6784b137/)
+- 👨‍💻 You can also see all of my projects here: [https://mohammedtay4.github.io/mohammedtayfour.github.io/#](https://mohammedtay4.github.io/mohammedtayfour.github.io/#)
 
 - 💬 Ask me about **Python, R programming language, SQL, Tableau**
 
-- 📫 How to reach me **mmohammedtayfour@gmail.com**
+- 📫 You can reach me at: **mmohammedtayfour@gmail.com**
 
 - ⚡ Fun fact **I was on a TV show once!**
 
