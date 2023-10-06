@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **AWS, SAP Analytics Cloud**
 
+- 👨‍💻 I'm currently working on **Microsoft PowerBI visualizations**
+
 - 👨‍💻 You can check out my portfolio here: [https://mohammedtay4.github.io/mohammedtayfour.github.io/#](https://mohammedtay4.github.io/mohammedtayfour.github.io/#)
 
 - 💬 Ask me about **Python, R programming language, SQL, Tableau**
