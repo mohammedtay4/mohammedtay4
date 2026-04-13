@@ -1,21 +1,19 @@
 ![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
 <h1 align="center">Hi 👋, I'm Mohammed Tayfour</h1>
-<h3 align="center">A passionate Google Certified Data Analyst</h3>
+<h3 align="center">A passionate Google Certified Data Analyst and Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/lvLaG5hPCncAAAAC/data-analysis.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedtay4&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedtay4" /> </p>
 
-- 🌱 I’m currently learning **AWS, SAP Analytics Cloud**
+- 🌱 I’m currently learning **SAP Analytics Cloud, and AWS**
 
-- 👨‍💻 I'm currently working on **Analyzing a Star Wars Dataset!**
+- 👨‍💻 I'm currently working on ****
 
 - 👨‍💻 You can check out my portfolio here: [https://mohammedtay4.github.io/mohammedtayfour.github.io/#](https://mohammedtay4.github.io/mohammedtayfour.github.io/#)
 
 - 💬 Ask me about **Python, R programming language, SQL, Tableau**
 
 - 📫 You can reach me at: **mmohammedtayfour@gmail.com**
-
-- ⚡ Fun fact **I was on a TV show once!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
