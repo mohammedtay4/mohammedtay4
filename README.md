@@ -9,8 +9,6 @@
 
 - 👨‍💻 I'm currently working on ****
 
-- 👨‍💻 You can check out my portfolio here: [https://mohammedtay4.github.io/mohammedtayfour.github.io/#](https://mohammedtay4.github.io/mohammedtayfour.github.io/#)
-
 - 💬 Ask me about **Python, R programming language, SQL, Tableau**
 
 - 📫 You can reach me at: **mmohammedtayfour@gmail.com**
