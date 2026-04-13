@@ -3,8 +3,6 @@
 <h3 align="center">A Google Certified Data Analyst and Data Scientist focused on turning data into clear business decisions.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/lvLaG5hPCncAAAAC/data-analysis.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedtay4&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedtay4" /> </p>
-
 - 📊 I build dashboards, clean and analyze data, and turn complex datasets into actionable insights. I also manage ERP systems and understand business workflows end to end.
 - 🌱 Currently expanding my skills in SAP Analytics Cloud and AWS.
 - 🚀 Working on data analytics and visualization projects that solve real business problems.
