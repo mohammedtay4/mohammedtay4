@@ -17,10 +17,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> Python 
-  R Programming Language 
-  SQL 
-  Tableau
-  Microsoft Power BI</p>
+<p align="left"> Python </p>
+<p align="left"> R Programming Language </p>
+<p align="left"> SQL </p>
+<p align="left"> Tableau </p> 
+<p align="left"> Microsoft Power BI </p> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedtay4&" alt="mohammedtay4" /></p>
