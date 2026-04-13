@@ -9,8 +9,6 @@
 
 - 👨‍💻 I'm currently working on ****
 
-- 💬 Ask me about **Python, R programming language, SQL, Tableau**
-
 - 📫 You can reach me at: **mmohammedtayfour@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
