@@ -7,7 +7,7 @@
 - 🌱 Currently expanding my skills in SAP Analytics Cloud and AWS.
 - 🚀 Working on data analytics and visualization projects that solve real business problems.
 - 📫 Reach me at: **mmohammedtayfour@gmail.com**
-- 💼 Open to opportunities in Data Science, Data Analytics, and Business Analytics.
+- 💼 Open to opportunities in Data Science and Analytics
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
