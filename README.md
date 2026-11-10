@@ -24,7 +24,7 @@
 
 I'm a Computer Science graduate with professional experience in IT coordination, ERP systems, business workflows and data analytics.
 
-I'm preparing to pursue the **Master of Artificial Intelligence (AI) Design & Development at Seneca Polytechnic (Winter 2027)**, with a growing focus on machine learning engineering.
+I'm preparing to pursue the **Master of Artificial Intelligence Design & Development at Seneca Polytechnic**, with a growing focus on machine learning engineering.
 
 I'm particularly interested in understanding the mathematics behind machine learning, developing algorithms from the ground up, and building practical solutions that can be applied to real-world problems.
 
