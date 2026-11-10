@@ -3,7 +3,7 @@
 
 # Hi, I'm Mohammed Tayfour 👋
 
-### Incoming M.AI Student at Seneca Polytechnic | Aspiring Machine Learning Engineer
+### Incoming Master of Artifical Intelligence Design and Development Student at Seneca Polytechnic | Aspiring Machine Learning Engineer
 
 **Building a foundation in mathematics, machine learning and practical AI engineering.**
 
