@@ -34,19 +34,6 @@ I'm particularly interested in understanding the mathematics behind machine lear
 - 🧠 Interested in machine learning, deep learning and applied AI.
 - 🎯 Long-term goal: Develop and deploy reliable, data-driven ML solutions.
 
-## 📚 Currently Learning
-
-| Area | Focus |
-|---|---|
-| Mathematics for ML | Linear algebra, calculus, optimization, probability and statistics |
-| Machine Learning | Regression, classification, neural networks and model evaluation |
-| Practical ML Engineering | Python, data preparation, model development and deployment |
-
-**Currently following:**
-- [Mathematics for Machine Learning and Data Science](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) — DeepLearning.AI
-- [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) — DeepLearning.AI & Stanford Online
-- [Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) — DataTalks.Club
-
 ## 🛠️ Languages, Tools & Technologies
 
 ### Programming & Data Analysis
@@ -78,19 +65,9 @@ I'm particularly interested in understanding the mathematics behind machine lear
 
 ## 🚀 Projects & Practical Work
 
-### Machine Learning Engineering
-
-**[Machine Learning Zoomcamp](https://github.com/mohammedtay4/ml-zoomcamp)**
-
-Currently working through the DataTalks.Club Machine Learning Zoomcamp, focusing on practical machine learning implementation, independent coding exercises, model development and end-to-end ML projects.
-
-### Data Analytics
-
-Background in data cleaning, exploratory data analysis, data visualization and communicating insights through analytical projects.
 
 More independently developed machine learning projects will be added here as I progress.
 
----
 
 ## 🤝 Connect With Me
 
